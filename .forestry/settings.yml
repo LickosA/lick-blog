@@ -10,8 +10,8 @@ sections:
   path: exampleSite/content/english/_index.md
   label: Homepage (en)
 - type: document
-  path: exampleSite/content/deutsch/_index.md
-  label: Homepage (de)
+  path: exampleSite/content/french/_index.md
+  label: Homepage (fr)
 - type: heading
   label: Blog
 - type: document

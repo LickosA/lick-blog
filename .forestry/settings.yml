@@ -18,8 +18,8 @@ sections:
   path: exampleSite/content/english/blog/_index.md
   label: Blog Page (en)
 - type: document
-  path: exampleSite/content/deutsch/blog/_index.md
-  label: Blog Page (de)
+  path: exampleSite/content/french/blog/_index.md
+  label: Blog Page (fr)
 - type: directory
   path: exampleSite/content/english/blog
   label: Blog Post (en)
@@ -29,8 +29,8 @@ sections:
   templates:
   - post
 - type: directory
-  path: exampleSite/content/deutsch/blog
-  label: Blog Post (de)
+  path: exampleSite/content/french/blog
+  label: Blog Post (fr)
   create: documents
   match: "**/*"
   exclude: _index.md
@@ -42,20 +42,20 @@ sections:
   path: exampleSite/content/english/contact/_index.md
   label: Contact (en)
 - type: document
-  path: exampleSite/content/deutsch/contact/_index.md
-  label: Contact (de)
+  path: exampleSite/content/french/contact/_index.md
+  label: Contact (fr)
 - type: document
   path: exampleSite/content/english/pricing/_index.md
   label: Pricing (en)
 - type: document
-  path: exampleSite/content/deutsch/pricing/_index.md
-  label: Pricing (de)
+  path: exampleSite/content/french/pricing/_index.md
+  label: Pricing (fr)
 - type: document
   path: exampleSite/content/english/faq/_index.md
   label: FAQ (en)
 - type: document
-  path: exampleSite/content/deutsch/faq/_index.md
-  label: FAQ (de)
+  path: exampleSite/content/french/faq/_index.md
+  label: FAQ (fr)
 - type: heading
   label: All Pages
 - type: directory
@@ -84,8 +84,8 @@ sections:
   path: exampleSite/config/_default/menus.en.toml
   label: Menu (en)
 - type: document
-  path: exampleSite/config/_default/menus.de.toml
-  label: Menu (de)
+  path: exampleSite/config/_default/menus.fr.toml
+  label: Menu (fr)
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''

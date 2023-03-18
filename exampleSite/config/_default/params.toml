@@ -47,7 +47,7 @@ footer_content = "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis te
 custom_script= ""
 # copyright
 theme_copyright = true
-copyright = "Copyright by your company"
+copyright = "Copyright by Lickyber Tech"
 
 # 404
 error_404_text = "404 Page Not Found!"
@@ -62,10 +62,10 @@ preloader = "" # use jpg, png, svg or gif format.
 [banner]
 enable = true
 title_large = "Welcome **!**"
-title_small = "to Jhon Bravo Blog"
-image = "images/banner.png"
+title_small = "to Lickos Blog"
+image = "images/lick.jpeg"
 background_image = "/images/banner-bg-shape.svg"
-content = "Are Developer and recently started your own business Already made website to ensure presence wants to develop."
+content = "CyberSecurity and Project Management are what drives me and I aspire to become a Research Manager.."
 button_label = "Know About Me"
 button_link = "about/"
 

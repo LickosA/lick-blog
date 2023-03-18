@@ -1,5 +1,5 @@
 baseURL = "https://lick-blog.netlify.app"
-disableLanguages = ["fr"]
+#disableLanguages = ["fr"]
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
 languageCode = "en-us"

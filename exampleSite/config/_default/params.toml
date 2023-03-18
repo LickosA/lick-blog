@@ -2,7 +2,7 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo-lick.png"
+#logo = "images/logo-lick.png"
 # use `x` with logo_width, example: "100x".
 # Note: logo_width is not work with .svg file
 logo_width = "150x"
@@ -63,7 +63,7 @@ preloader = "" # use jpg, png, svg or gif format.
 enable = true
 title_large = "Welcome **!**"
 title_small = "to Lickos Blog"
-image = "images/lick.jpeg"
+#image = "images/lick.jpeg"
 background_image = "/images/banner-bg-shape.svg"
 content = "CyberSecurity and Project Management are what drives me and I aspire to become a Research Manager.."
 button_label = "Know About Me"

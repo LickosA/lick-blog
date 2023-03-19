@@ -5,7 +5,7 @@ categories_title = "Blog Categories"
 contact_form_action = "#"
 copyright = "Copyright by Lickyber Tech"
 custom_script = ""
-description = "This is meta description"
+description = "Lickos Adventures in CyberSpace...."
 email = "ma@lickyber.tech"
 error_404_button = "Back To Home"
 error_404_text = "404 Page Not Found!"
@@ -35,12 +35,12 @@ theme_copyright = true
 image = "images/promotion.png"
 link = "https://gethugothemes.com/"
 [banner]
-image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 button_label = "Know About Me"
 button_link = "about/"
 content = "CyberSecurity and Project Management are what drives me and I aspire to become a Research Manager.."
 enable = true
+image = "images/banner.png"
 title_large = "Welcome **!**"
 title_small = "to Lickos Blog"
 [cookies]

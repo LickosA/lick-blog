@@ -62,7 +62,7 @@ newsletter_reminder_a = "By Singing Up, You Agree To"
 newsletter_reminder_b = "Privacy Policy"
 newsletter_title = "Newsletter"
 [widgets]
-sidebar = ["about", "recent-post", "newsletter"]
+sidebar = ["about", "categories", "newsletter", "recent-post"]
 [[social]]
 icon = "fab fa-twitter"
 link = "https://twitter.com/LickosA"

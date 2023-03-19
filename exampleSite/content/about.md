@@ -1,7 +1,7 @@
 ---
 title: About Me
 description: this is meta-description
-image: images/author.jpg
+image: images/author.png
 layout: about
 education:
   enable: false

@@ -1,7 +1,7 @@
 ---
-title: About The Author
+title: About Me
 description: this is meta-description
-image: images/author.png
+image: images/author.jpg
 layout: about
 education:
   enable: false
@@ -31,7 +31,10 @@ experience:
   - Best Book
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus  ndisse.  morbi quis nunc.
+My name is Lickos. Cybersecurity and Project Management are what drives me and I aspire to become a **Research Manager**.
 
+This blog is an avenue for me to connect my keen passion for the sharing of knowledge with my love for the internet. On this platform, not only will I be sharing my experiences in the cyberspace, but also, I will be creating contents that will help people thrive both in the cyberspace and in real life.
 
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse.  morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis  ndisse.  morbi quis nunc, at arcu quam facilisi  ndisse.  morbi quis nunc, at arcu quam facilisi
+I hold the view that learning, creating, and sharing are our passport to great achievements and that’s exaclty what we’ll be doing here.
+
+Kindly check my [**tutorials**](https://lickyber.tech/category/blog/tutorials)**,** [**projects**](https://lickyber.tech/category/projects)**,** and [**Offensive Security Journey**](https://offsec.lickyber.tech/)**.**

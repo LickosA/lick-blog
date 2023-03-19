@@ -45,11 +45,13 @@ Before installing fail2ban, make sure that your web and ssh server are properly 
 
 To install fail2ban, execute the commands bellow :
 
+```bash
     apt-get update &amp;&amp; apt-get upgrade -y # updating system
     apt-get install fail2ban # installing fail2ban
     systemctl start fail2ban 
     systemctl enable fail2ban
-
+```
+ 
 #### **Secure SSH with Fail2Ban**
 
 ##### **Configure Fail2Ban for SSH**
@@ -57,11 +59,9 @@ To install fail2ban, execute the commands bellow :
 By default, all pre-set jails are located inside /etc/fail2ban/jail.conf file. This is not an appropriate way to edit the default jail.conf file. You should create a separate jail.local file for each service that you want to configure.
 
 You can create a jail.local file for SSH with the following command:
-
+```bash
     nano /etc/fail2ban/jail.local
-
-| --- |
-| nano /etc/fail2ban/jail.local |
+```
 
 Add the following lines:
 

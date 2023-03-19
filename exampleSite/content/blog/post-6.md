@@ -45,12 +45,10 @@ Before installing fail2ban, make sure that your web and ssh server are properly 
 
 To install fail2ban, execute the commands bellow :
 
-    ```bash
     apt-get update &amp;&amp; apt-get upgrade -y # updating system
     apt-get install fail2ban # installing fail2ban
     systemctl start fail2ban 
     systemctl enable fail2ban
-    ```
 
 #### **Secure SSH with Fail2Ban**
 
